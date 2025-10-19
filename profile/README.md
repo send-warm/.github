@@ -1,7 +1,3 @@
-<center>
+ ### Send 📮 Warm 🔥
 
-### Send 📮 Warm 🔥
-
-<img style="max-width: 360px" src="./send-warm.png">
-
-</center>
+<img width="240" src="./send-warm.png">
